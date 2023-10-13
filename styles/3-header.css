@@ -1,0 +1,14 @@
+header {
+    height: 70px;
+    width: 100%;
+    color: white;
+    border-bottom: 1px #CCCCCC;
+  }
+  .logo {
+    height: 50px;
+    width: 50%;
+    position: absolute;
+    margin-left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+   }
